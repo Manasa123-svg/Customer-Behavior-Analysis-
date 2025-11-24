@@ -1,4 +1,4 @@
-# Customer-Behavior-Analysis-
+
 
 #  End-to-End Customer Shopping Behavior Analytics
 
@@ -16,8 +16,11 @@ This project established a complete data engineering and analytics pipeline to e
 # Technology Stack
 
 **Data Processing (ETL):** Python (Pandas, NumPy)
+
 **Database Management:** PostgreSQL (SQLAlchemy, Psycopg2)
+
 **Data Analysis:** Advanced SQL
+
 **Visualization:** Power BI
 
 # Methodology
@@ -53,13 +56,6 @@ The final phase involved building a self-service dashboard to visualize the find
 **Dynamic Filtering:** Enabled slicers for Gender, Shipping Type, and Subscription Status to allow for granular analysis.
 
 **Visual Storytelling:** Used funnel charts to show category sales volume and bar charts to compare revenue across age demographics.
-
-# Technology Stack
-
-**Data Processing (ETL):** Python (Pandas, NumPy)
-**Database Management:** PostgreSQL (SQLAlchemy, Psycopg2)
-**Data Analysis:** Advanced SQL
-**Visualization:** Power BI
 
 # Key Business Insights
 
