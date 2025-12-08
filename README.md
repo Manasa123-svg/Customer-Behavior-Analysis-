@@ -70,3 +70,6 @@ The final phase involved building a self-service dashboard to visualize the find
 **Subscription Opportunity:** Only 26.88% of customers are currently subscribers. With nearly 73% of the user base unsubscribed, there is a massive opportunity to target "Returning" customers with loyalty incentives to drive recurring revenue.
 
 **Customer Satisfaction:** The average review rating of 3.75/5 indicates a generally positive sentiment, though specific sub-categories identified in SQL analysis may require quality control improvements
+
+
+https://github.com/Manasa123-svg/Customer-Behavior-Analysis-Project/blob/main/customer_behavior_analysis_dashboard.png
